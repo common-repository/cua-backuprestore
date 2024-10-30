@@ -1,0 +1,6 @@
+SiteID : 7
+SiteName : ayfer
+SitePath : staff.bilkent.edu.tr/ugur/
+Backed up at : 20151123194945
+Backed up by : 1
+From IP : 139.179.155.2
